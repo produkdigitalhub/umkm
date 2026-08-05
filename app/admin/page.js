@@ -1,3 +1,7 @@
+export const dynamic = 'force-dynamic';
+
+import { useEffect, useState } from 'react';
+// ... sisa kode halaman Anda
 'use client';
 
 import { useState, useEffect } from 'react';
