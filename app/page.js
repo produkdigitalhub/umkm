@@ -1,9 +1,8 @@
-export const dynamic = 'force-dynamic';
 
-import { useEffect, useState } from 'react';
-// ... sisa kode halaman Anda
+
+
 'use client';
-
+export const dynamic = 'force-dynamic';
 import { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabaseClient';
 import {
